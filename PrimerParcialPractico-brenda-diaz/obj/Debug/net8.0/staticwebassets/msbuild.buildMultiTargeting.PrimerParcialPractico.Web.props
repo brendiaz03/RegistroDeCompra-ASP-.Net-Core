@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PrimerParcialPractico.Web.props" />
+</Project>

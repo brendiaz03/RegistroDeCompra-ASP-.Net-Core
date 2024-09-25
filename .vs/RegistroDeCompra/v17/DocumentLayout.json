@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\shared\\_sincabecerafijalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\shared\\_sincabecerafijalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3552117E-94B1-46DE-A34E-6F341A075143}|PrimerParcial.Logica\\PrimerParcial.Logica.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcial.logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3552117E-94B1-46DE-A34E-6F341A075143}|PrimerParcial.Logica\\PrimerParcial.Logica.csproj|solutionrelative:primerparcial.logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\controllers\\presentacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\controllers\\presentacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\models\\compraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\models\\compraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\compra\\registrarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\compra\\registrarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\compra\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\compra\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4FE175-7F61-4342-AF6C-C9F59C1446C7}|PrimerParcial.Entidades\\PrimerParcial.Entidades.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcial.entidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4FE175-7F61-4342-AF6C-C9F59C1446C7}|PrimerParcial.Entidades\\PrimerParcial.Entidades.csproj|solutionrelative:primerparcial.entidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\presentacion\\bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\presentacion\\bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|c:\\users\\brendadiaz\\desktop\\primerparcialwebiii\\parcialpractico\\primerparcialpractico-brenda-diaz\\views\\shared\\_footerpartial.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C73C2AF7-F3AE-45E4-B90C-3CB9BC56C468}|PrimerParcialPractico-brenda-diaz\\PrimerParcialPractico.Web.csproj|solutionrelative:primerparcialpractico-brenda-diaz\\views\\shared\\_footerpartial.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Program.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Program.cs",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:37:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Models\\CompraViewModel.cs",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Models\\CompraViewModel.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Models\\CompraViewModel.cs",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Models\\CompraViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:11:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PresentacionController.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Controllers\\PresentacionController.cs",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Controllers\\PresentacionController.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Controllers\\PresentacionController.cs",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Controllers\\PresentacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:12:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Controllers\\CompraController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:33:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompraLogica.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcial.Logica\\CompraLogica.cs",
+              "RelativeDocumentMoniker": "PrimerParcial.Logica\\CompraLogica.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcial.Logica\\CompraLogica.cs",
+              "RelativeToolTip": "PrimerParcial.Logica\\CompraLogica.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:16:07.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:53:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SinCabeceraFijaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_SinCabeceraFijaLayout.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_SinCabeceraFijaLayout.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_SinCabeceraFijaLayout.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_SinCabeceraFijaLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:44:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:37:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:37:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:37:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrarCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Compra\\RegistrarCompra.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Compra\\RegistrarCompra.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Compra\\RegistrarCompra.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Compra\\RegistrarCompra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:09:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Compra\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Compra\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Compra\\Resultado.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Compra\\Resultado.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:10:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcial.Entidades\\Compra.cs",
+              "RelativeDocumentMoniker": "PrimerParcial.Entidades\\Compra.cs",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcial.Entidades\\Compra.cs",
+              "RelativeToolTip": "PrimerParcial.Entidades\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:13:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bienvenido.cshtml",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Presentacion\\Bienvenido.cshtml",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Presentacion\\Bienvenido.cshtml",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Presentacion\\Bienvenido.cshtml",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Presentacion\\Bienvenido.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:36:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T23:51:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_FooterPartial.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml.css",
+              "RelativeDocumentMoniker": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml.css",
+              "ToolTip": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml.css",
+              "RelativeToolTip": "PrimerParcialPractico-brenda-diaz\\Views\\Shared\\_FooterPartial.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T22:26:52.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\RegistroDeCompra.Logica.deps.json
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\RegistroDeCompra.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\RegistroDeCompra.Logica.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\RegistroDeCompra.Entidades.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\RegistroDeCompra.Entidades.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.csproj.AssemblyReference.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.AssemblyInfoInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.AssemblyInfo.cs
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.csproj.CoreCompileInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\Registro.707061B6.Up2Date
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\refint\RegistroDeCompra.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\RegistroDeCompra.Logica.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\ref\RegistroDeCompra.Logica.dll

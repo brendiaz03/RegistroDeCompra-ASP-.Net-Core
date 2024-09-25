@@ -1,0 +1,46 @@
+﻿@model List<PrimerParcialPractico_brenda_diaz.Models.CompraViewModel>
+<h1>Resultados</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                #IdCompra
+            </th>
+            <th>
+                Proveedor
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th>
+                Precio Unitario ($)
+            </th>
+            <th>
+                Total Compra
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCompra)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Proveedor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioU)
+                </td>
+                <td>
+                    $ @Html.DisplayFor(modelItem => item.TotalCompra)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

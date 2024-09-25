@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cht3oTfJyge6Ek0S5AJg5DJjbspivINBLWQnu4lFVskdRysF+6c4Ftnx/Wj6zSBZWOcUK+A6PLG0uCYWpATSHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrendaDiaz\\Desktop\\PrimerParcialWEBIII\\ParcialPractico\\PrimerParcialPractico-brenda-diaz\\RegistroDeCompra.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrendaDiaz\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\PrimerParcial.Logica.deps.json
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\PrimerParcial.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\PrimerParcial.Logica.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\PrimerParcial.Entidades.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\bin\Debug\net8.0\PrimerParcial.Entidades.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.csproj.AssemblyReference.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.AssemblyInfoInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.AssemblyInfo.cs
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.csproj.CoreCompileInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerPa.005D7A04.Up2Date
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\refint\PrimerParcial.Logica.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\PrimerParcial.Logica.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Logica\obj\Debug\net8.0\ref\PrimerParcial.Logica.dll

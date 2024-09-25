@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrimerParcial.Logica/1.0.0": {
+        "dependencies": {
+          "PrimerParcial.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "PrimerParcial.Logica.dll": {}
+        }
+      },
+      "PrimerParcial.Entidades/1.0.0": {
+        "runtime": {
+          "PrimerParcial.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimerParcial.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimerParcial.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

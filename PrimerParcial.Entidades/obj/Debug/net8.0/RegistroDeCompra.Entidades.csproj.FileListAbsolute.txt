@@ -1,0 +1,11 @@
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\bin\Debug\net8.0\RegistroDeCompra.Entidades.deps.json
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\bin\Debug\net8.0\RegistroDeCompra.Entidades.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\bin\Debug\net8.0\RegistroDeCompra.Entidades.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.AssemblyInfoInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.AssemblyInfo.cs
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\refint\RegistroDeCompra.Entidades.dll
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\RegistroDeCompra.Entidades.pdb
+C:\Users\BrendaDiaz\Desktop\PrimerParcialWEBIII\ParcialPractico\PrimerParcial.Entidades\obj\Debug\net8.0\ref\RegistroDeCompra.Entidades.dll

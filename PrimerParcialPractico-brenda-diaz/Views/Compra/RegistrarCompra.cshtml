@@ -1,0 +1,23 @@
+﻿@model PrimerParcialPractico_brenda_diaz.Models.CompraViewModel
+
+<h1>Registrar Compra</h1>
+<form class="space-y-5" asp-action="RegistrarCompra" method="post">
+    <div class="mb-3">
+        <label asp-for="Proveedor"></label>
+        <input type="text" placeholder="Proveedor *" class="form-control" asp-for="Proveedor"  required />
+        <span asp-validation-for="Proveedor" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Cantidad"></label>
+        <input type="text" placeholder="Cantidad *" class="form-control" required asp-for="Cantidad" />
+        <span asp-validation-for="Cantidad" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="PrecioU"></label>
+        <input type="number" placeholder="Precio U *" class="form-control" required asp-for="PrecioU" />
+        <span asp-validation-for="PrecioU" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">
+       Guardar
+    </button>
+</form>
